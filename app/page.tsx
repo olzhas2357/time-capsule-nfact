@@ -7,6 +7,7 @@ export default function Home() {
       <main className="container mx-auto px-4 py-16">
         <div className="mx-auto max-w-3xl">
           <div className="mb-12 text-center">
+
             <h1 className="mb-4 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-50 sm:text-5xl">
               Future Message
             </h1>
@@ -18,6 +19,7 @@ export default function Home() {
           <div className="rounded-xl border bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
             <MessageForm/>
           </div>
+
           {/*<div className="min-h-screen flex flex-col items-center justify-center bg-black " >*/}
           {/*  <h1 className="text-2xl font-bold mb-4">Проверка отправки email</h1>*/}
           {/*  <TestEmailButton/>*/}

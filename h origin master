@@ -1,0 +1,23 @@
+[33mcommit 45d0b4b9f27a41689f687a9128c44cbb4af6e12c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Olzhas <olzhas.koshkarbay@gmail.com>
+Date:   Mon Apr 28 23:03:36 2025 +0500
+
+    Fix prisma generate on deploy
+
+[33mcommit 3d0cda631f3c9f9cd089d55bfaebc4031d1a4972[m
+Author: Olzhas <olzhas.koshkarbay@gmail.com>
+Date:   Mon Apr 28 22:47:51 2025 +0500
+
+    Fix prisma generate on deploy
+
+[33mcommit 1f829cc84ee48948e7c55aa6d4f39901eb0d404e[m
+Author: Olzhas <122978915+olzhas2357@users.noreply.github.com>
+Date:   Mon Apr 28 22:36:29 2025 +0500
+
+    Create README.md
+
+[33mcommit 4559c9500f52c231488473196b06d1d697930a5c[m
+Author: Olzhas <olzhas.koshkarbay@gmail.com>
+Date:   Mon Apr 28 21:57:07 2025 +0500
+
+    time-capsule
