@@ -29,9 +29,11 @@ SMTP и отправка email: Я столкнулся с проблемами 
 Как преодолевать трудности при деплое на Vercel и синхронизации с базой данных.
 
 Несмотря на то, что не все задачи удалось решить, я горжусь тем, что смог научиться многому и продолжать двигаться вперед, несмотря на сложности.
-Видео-демо
-[Ссылка на видео-демо](https://drive.google.com/file/d/1k7OYoj5mX5ETrmCLGfWnMwNXRq5YGfCX/view?usp=sharing)
 
-[Ссылка на сайт](https://time-capsule-nfact.vercel.app/)
+### Видео-демо
+
+## [Ссылка на видео-демо](https://drive.google.com/file/d/1k7OYoj5mX5ETrmCLGfWnMwNXRq5YGfCX/view?usp=sharing)
+
+## [Ссылка на сайт](https://time-capsule-nfact.vercel.app/)
 
 
